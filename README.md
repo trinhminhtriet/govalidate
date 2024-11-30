@@ -16,8 +16,11 @@
 Validates your Go installation and dependencies:
 
 ✅ Checks the Go installation and version.
+
 🔍 Ensures the PATH is correctly configured.
+
 🔧 Verifies CGO dependencies are installed.
+
 🛠️ Checks plugin support for available editors.
 
 ## 🚀 Installation
