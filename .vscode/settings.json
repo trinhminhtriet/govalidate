@@ -1,0 +1,29 @@
+{
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "go.lintOnSave": "workspace",
+    "go.vetOnSave": "workspace",
+    "go.buildTags": "",
+    "go.buildFlags": [],
+    "go.lintFlags": [],
+    "go.vetFlags": [],
+    "go.testOnSave": false,
+    "go.useLanguageServer": true,
+    "go.formatTool": "goimports",
+    // "go.formatTool": "goreturns",
+    "go.coverOnSave": false,
+    "go.useCodeSnippetsOnFunctionSuggest": true,
+    "go.formatFlags": [],
+    "go.goroot": "",
+    "go.gopath": "",
+    "go.inferGopath": true,
+    "go.gocodeAutoBuild": false,
+    "go.testFlags": [
+        "-v"
+    ],
+    "[go]": {
+        "editor.defaultFormatter": "golang.go",
+    },
+    "plantuml.diagramsRoot": "docs/diagrams/src",
+    "plantuml.exportOutDir": "docs/diagrams/out"
+}
